@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhy4u\\source\\repos\\ActionsGit\\ActionsGit\\ActionsGit.csproj": {}
+    "C:\\Users\\bhy4u\\GreenM_GitHub\\Action-Pipeline\\ActionsGit\\ActionsGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhy4u\\source\\repos\\ActionsGit\\ActionsGit\\ActionsGit.csproj": {
+    "C:\\Users\\bhy4u\\GreenM_GitHub\\Action-Pipeline\\ActionsGit\\ActionsGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhy4u\\source\\repos\\ActionsGit\\ActionsGit\\ActionsGit.csproj",
+        "projectUniqueName": "C:\\Users\\bhy4u\\GreenM_GitHub\\Action-Pipeline\\ActionsGit\\ActionsGit.csproj",
         "projectName": "ActionsGit",
-        "projectPath": "C:\\Users\\bhy4u\\source\\repos\\ActionsGit\\ActionsGit\\ActionsGit.csproj",
+        "projectPath": "C:\\Users\\bhy4u\\GreenM_GitHub\\Action-Pipeline\\ActionsGit\\ActionsGit.csproj",
         "packagesPath": "C:\\Users\\bhy4u\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhy4u\\source\\repos\\ActionsGit\\ActionsGit\\obj\\",
+        "outputPath": "C:\\Users\\bhy4u\\GreenM_GitHub\\Action-Pipeline\\ActionsGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhy4u\\AppData\\Roaming\\NuGet\\NuGet.Config",
